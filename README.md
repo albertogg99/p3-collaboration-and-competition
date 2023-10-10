@@ -8,7 +8,7 @@
 
 ### ![image1]
 ### Deep Reinforcement Learning Nanodegree
-### Policy-Based Methods | Project: *Collaboration and Competition*
+### Multi-Agent Reinforcement Learning | Project: *Collaboration and Competition*
 ### Author : Alberto García García
 
 #
@@ -72,6 +72,6 @@ environment.
 The agent is able to solve the problem in 3395 episodes (averaging 0.5 points from episode 3395 to episode 3495). The weights 
 of the actor networks of the agents are stored in [actor1.pth](solution/actor1.pth) and [actor2.pth](solution/actor2.pth), 
 while the weights of the critic networks are stored in [critic1.pth](solution/critic1.pth) and [critic2.pth](solution/critic2.pth). 
-A detailed description of the implemented algorithm can be found in [report.pdf](report.pdf). Here's the multiagent's score history:
+A detailed description of the implemented algorithm can be found in [report.pdf](report.pdf). Here's the multi-agent's score history:
 
 ![image4]
